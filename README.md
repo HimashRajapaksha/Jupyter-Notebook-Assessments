@@ -1,7 +1,3 @@
-Here's a sample README file for your Jupyter Notebook assessments and labs repository:
-
----
-
 # Jupyter Notebook Assessments & Labs
 
 Welcome to my repository for Jupyter Notebook assessments and lab exercises. This repository contains a collection of my work and projects related to data science, machine learning, and other computational tasks.
