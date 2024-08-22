@@ -1,6 +1,6 @@
 # Jupyter Notebook Assessments & Labs
 
-Welcome to my repository for Jupyter Notebook assessments and lab exercises. This repository contains a collection of my work and projects related to data science, machine learning, and other computational tasks.
+Welcome to my repository for Jupyter Notebook assessments and lab exercises For Y3S1 Data Science and Analytics. This repository contains a collection of my work and projects related to data science, machine learning, and other computational tasks.
 
 ## Repository Structure
 
