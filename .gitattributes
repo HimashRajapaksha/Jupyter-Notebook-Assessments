@@ -4,6 +4,7 @@
 *.svg linguist-vendored
 *.csv linguist-vendored
 *.ipynb linguist-vendored
+*.pdf linguist-vendored
 
 
 
